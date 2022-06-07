@@ -1,4 +1,4 @@
-[![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/03/cloudd.gif)](https://ugonna-nwani.io)
+[![MasterHead](https://i.gifer.com/J4o.gif)](https://ugonna-nwani.io)
 <h1 align="center">Hi 👋, I'm Stanley</h1>
 <h3 align="center">A passionate Data Analyst from Nigeria.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Internships**
 
-- 👨‍💻 All of my projects are available in [my website](https://stan-leigh.github.io/ugonna-nwani.github.io)
+- 👨‍💻 All of my projects are available at [https://stan-leigh.github.io/ugonna-nwani.github.io](https://stan-leigh.github.io/ugonna-nwani.github.io)
 
 - 💬 Ask me about **Python, SQL, Tableau**
 
@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stan-leigh&show_icons=true&locale=en" alt="stan-leigh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stan-leigh&" alt="stan-leigh" /></p>
+
+
+
