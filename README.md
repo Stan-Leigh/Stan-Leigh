@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stan-leigh&label=Profile%20views&color=0e75b6&style=flat" alt="stan-leigh" /> </p>
 
-- 🔭 I’m currently working on **Microsoft NG 30 Days of Learning**
+- 🔭 I’m currently working on **Nothing specific**
 
-- 🌱 I’m currently learning **Data Analytics with PowerBI**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Data Analysis projects**
 
