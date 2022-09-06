@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stan-leigh&label=Profile%20views&color=0e75b6&style=flat" alt="stan-leigh" /> </p>
 
-- 🔭 I’m currently working on **a project from Techtimal**
+- 🔭 I’m currently working on **Microsoft DP900 exams**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Azure Data Fundamentals**
 
 - 👯 I’m looking to collaborate on **Data Analysis projects**
 
