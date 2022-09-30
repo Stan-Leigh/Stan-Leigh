@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **how to use Streamlit**
 
-- 👯 I’m looking to collaborate on **Data Analysis projects**
+- 👯 I’m looking to collaborate on **Data Analysis and Data Science projects**
 
 - 🤝 I’m looking for help with **Internships**
 
