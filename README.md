@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stan-leigh&label=Profile%20views&color=0e75b6&style=flat" alt="stan-leigh" /> </p>
 
-- 🔭 I’m currently working on **building backend websites**
+- 🔭 I’m currently working on **Face detection**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **OpenCV and Computer Vision**
 
 - 👯 I’m looking to collaborate on **Data Analysis and Data Science projects**
 
